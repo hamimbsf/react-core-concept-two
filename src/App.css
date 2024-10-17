@@ -1,0 +1,10 @@
+*{
+  background-color: black;
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 20px;
+}
+button{
+ margin-left: 20px;
+ border: 2px aqua solid;
+}
